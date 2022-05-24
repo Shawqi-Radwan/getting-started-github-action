@@ -50,6 +50,7 @@ jobs:
           echo $ANDROID_SDK_ROOT
           echo
           echo 6. Where are the Selenium Jars?
+          echo $SELENIUM_JAR_PATH
           echo
           echo 7. What is the Workspace Location?
           echo $RUNNER_WORKSPACE
